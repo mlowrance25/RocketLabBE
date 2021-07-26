@@ -8,5 +8,5 @@ npm test
 
 ###### START SERVER
 
-nodemon app
+node app
 
